@@ -1,0 +1,25 @@
+{
+  "name": "MP3-Player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenno3b/MP3-Player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenno3b/MP3-Player/issues"
+  },
+  "homepage": "https://github.com/brenno3b/MP3-Player#readme",
+  "dependencies": {
+    "electron": "^11.1.1"
+  },
+  "devDependencies": {}
+}
